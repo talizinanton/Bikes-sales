@@ -2,6 +2,8 @@
 
 I have conducted sales analysis of a Kaggle [dataset](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe) which contains orders for the bicycle store. They sell different products for sport lovers that fall into categories like Bikes, Accessories, and Clothing. You can find everything starting from Socks and Gloves, ending with Hydration Packs and Fenders. They operate in France, United States, Australia, Germany, United Kingdom, and Canada. The timeframe of the dataset is 5.5 years (from Jan 2011 to Jul 2016).
 
+Dashboard: https://lookerstudio.google.com/reporting/13bcc05a-44ac-4c59-a76a-ac96908398f7/page/sCxhF/edit 
+
 ## **Data preparation and cleaning** 
 
 This step aims to prepare the dataset for further analysis by removing duplicates, and handling missing data.
